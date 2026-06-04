@@ -26,5 +26,4 @@ Step 4: Verify Rule
 
 Open Command Prompt:
 netsh advfirewall firewall show rule name=all
-Open Command Prompt:
-netsh advfirewall firewall show rule name=all
+
